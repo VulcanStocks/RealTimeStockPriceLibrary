@@ -1,0 +1,10 @@
+C:\Programmering\CLI\RealTimeStockPriceLibrary(.net framework)\RealTimeStockPriceLibrary(.net framework)\bin\Debug\RealTimeStockPriceLibrary(.net framework).dll
+C:\Programmering\CLI\RealTimeStockPriceLibrary(.net framework)\RealTimeStockPriceLibrary(.net framework)\bin\Debug\RealTimeStockPriceLibrary(.net framework).pdb
+C:\Programmering\CLI\RealTimeStockPriceLibrary(.net framework)\RealTimeStockPriceLibrary(.net framework)\bin\Debug\HtmlAgilityPack.dll
+C:\Programmering\CLI\RealTimeStockPriceLibrary(.net framework)\RealTimeStockPriceLibrary(.net framework)\bin\Debug\HtmlAgilityPack.pdb
+C:\Programmering\CLI\RealTimeStockPriceLibrary(.net framework)\RealTimeStockPriceLibrary(.net framework)\bin\Debug\HtmlAgilityPack.xml
+C:\Programmering\CLI\RealTimeStockPriceLibrary(.net framework)\RealTimeStockPriceLibrary(.net framework)\obj\Debug\RealTimeStockPriceLibrary(.net framework).csproj.AssemblyReference.cache
+C:\Programmering\CLI\RealTimeStockPriceLibrary(.net framework)\RealTimeStockPriceLibrary(.net framework)\obj\Debug\RealTimeStockPriceLibrary(.net framework).csproj.CoreCompileInputs.cache
+C:\Programmering\CLI\RealTimeStockPriceLibrary(.net framework)\RealTimeStockPriceLibrary(.net framework)\obj\Debug\RealTimeStockPriceLibrary(.net framework).csproj.CopyComplete
+C:\Programmering\CLI\RealTimeStockPriceLibrary(.net framework)\RealTimeStockPriceLibrary(.net framework)\obj\Debug\RealTimeStockPriceLibrary(.net framework).dll
+C:\Programmering\CLI\RealTimeStockPriceLibrary(.net framework)\RealTimeStockPriceLibrary(.net framework)\obj\Debug\RealTimeStockPriceLibrary(.net framework).pdb
