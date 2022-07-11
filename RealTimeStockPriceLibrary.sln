@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealTimeStockPriceLibrary(.net framework)", "RealTimeStockPriceLibrary(.net framework)\RealTimeStockPriceLibrary(.net framework).csproj", "{F87F04D9-FA6C-4141-9E4A-799C837DEDB7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealTimeStockPriceLibrary", "RealTimeStockPriceLibrary\RealTimeStockPriceLibrary.csproj", "{F87F04D9-FA6C-4141-9E4A-799C837DEDB7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6FBFE84F-915C-4586-A424-24DE6A04C02C}
+		SolutionGuid = {0F14327E-7A93-40DB-9C22-CD3D1E9D0E20}
 	EndGlobalSection
 EndGlobal

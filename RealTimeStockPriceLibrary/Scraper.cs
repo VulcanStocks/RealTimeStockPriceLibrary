@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RealTimeStockPriceLibrary_.net_framework_
+namespace RealTimeStockPriceLibrary
 {
     public class Scraper
     {
         HtmlAgilityPack.HtmlWeb htmlWeb = new HtmlAgilityPack.HtmlWeb();
-        public float GetPrice(string ticker)
+        public double GetPrice(string ticker)
         {
             HtmlAgilityPack.HtmlDocument htmlDocument = htmlWeb.Load("https://finance.yahoo.com/quote/" + ticker + "?p=" + ticker);
             string temp = "";
@@ -21,7 +21,7 @@ namespace RealTimeStockPriceLibrary_.net_framework_
             }
             try
             {
-                return float.Parse(temp);
+                return double.Parse(temp);
             }
             catch (Exception)
             {
