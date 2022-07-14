@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F87F04D9-FA6C-4141-9E4A-799C837DEDB7}</ProjectGuid>
+    <ProjectGuid>{52C3B227-E0D6-45B0-96D4-C8CFE4D16C49}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>RealTimeStockPriceLibrary_.net_framework_</RootNamespace>
